@@ -21,7 +21,7 @@ class String
           element
         end
       }
-      binding.pry
+      
       arr.length
   end
   
